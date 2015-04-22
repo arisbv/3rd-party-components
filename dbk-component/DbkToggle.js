@@ -26,8 +26,8 @@ Ext.define ("viewer.components.DbkToggle",{
     layersVisible: true,
     iconOnUrl: "",
     iconOffUrl: "",
-    toolTipOn: "Verberg DBK's",
-    toolTipOff: "Toon DBK's",
+    toolTipOn: "De DBK's zijn zichtbaar",
+    toolTipOff: "De DBK's zijn niet zichtbaar",
     config: {
         // Flag (value 'visible') to show the DBK features/objects after startup.
         startupState: "visible"
